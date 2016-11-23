@@ -37,7 +37,7 @@
 		<div class="menu">
 			<ul>
 				<li id="girisYap"><a href="${pageContext.request.contextPath}/">AnaSayfa</a></li>
-				<li><a href="#">Hakkımızda</a></li>
+				<li><a href="${pageContext.request.contextPath}/admin/newmovie/form">Film Ekle</a></li>
 				<li><a href="#">İletişim</a></li>
 				<li><a href="">Arzu/Talep</a></li>
 			</ul>

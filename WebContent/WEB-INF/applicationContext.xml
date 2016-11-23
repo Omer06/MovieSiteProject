@@ -39,13 +39,6 @@
 			</props>
 		</property>
 	</bean>
-	
-	<mvc:interceptors>
-		<mvc:interceptor>
-			<mvc:mapping path="/admin/newmovie/form"/>
-			<bean class="com.inceptors.AdminPanelInceptor" />
-		</mvc:interceptor>
-	</mvc:interceptors>
 
 	<tx:annotation-driven transaction-manager="transactionManager" />
 

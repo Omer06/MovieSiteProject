@@ -75,7 +75,7 @@ public class NewMovieController {
 		return new ModelAndView("redirect:/admin/newmovie/form?username=admin&password=e050f626b6b5407da68be29e0d8965d9d8d5ec40eca3d3b802a9bf9853a2926bd819401e8884f26de050f626b6b5407da68be29e0d8965d9d8d5ec40eca3d3b802a9bf9853a2926bd819401e8884f26de050f626b6b5407da68be29e0d8965d9d8d5ec40eca3d3b802a9bf9853a2926bd819401e8884f26d");
 	}
 
-	// Film için seçilen resmi dosyayý ayarlanan klasöre yerleþtiriyoruz
+	// Film için seçilen resim dosyasýný ayarlanan klasöre yerleþtiriyoruz
 	private boolean setPosterPlace(MultipartFile posterImg, String path) {
 		boolean errorControll = false;
 		System.out.println("path :" + path + " " + posterImg == null);
