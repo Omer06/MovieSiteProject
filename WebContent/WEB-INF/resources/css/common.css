@@ -1,0 +1,10 @@
+
+.searchmovie { width: 218px; height: 355px; float: left; margin: 10px 0 0 5px; border-radius:5px; background-color: #D4D0D8; font: 15px serif ; color: #401C64}
+
+.searchmovie .posterOfTheMovie { width: 208px; height: 240px;  border-radius:5px;  margin: 5px 0 0 5px ;float: left }
+
+.searchmovie .infoOfTheMovie { width: 208px; height: 90px; float: left; margin: 0 0 0 5px }
+
+.searchmovie .infoOfTheMovie ul li { display:block; width:190px; height:14px;  text-indent: 2px; border-bottom: 1px solid #2D1644 ; padding: 4px}
+
+.searchmovie .loadingDateOfTheMovie { width: 208px; float: left; height: 20px; margin: 2px 0 0 5px; text-align: center ; color: #3D2A51}

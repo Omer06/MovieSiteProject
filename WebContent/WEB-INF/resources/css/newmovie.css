@@ -1,0 +1,39 @@
+.newMovieFormField { width: 100%; height: auto; margin: 30px auto 0 auto}
+
+.newMovieFormField input { font: 16px serif; border-radius : 5px;}
+
+.titleInputField { width: 75%; height: auto; margin: 50px auto 0 auto}
+.titleInputField input { width: 100% ; height: 30px}
+
+.directorImdbPointInputField{ width: 75%; height: auto; margin: 30px auto 0 auto }
+.directorImdbPointInputField select { width: 31%; height: 30px ;border-radius : 5px; font: 17px serif; float: left; margin-left: 4px}
+
+.categoryInputField{ width: 75%; height: auto; margin: 70px auto 0 auto  ; padding: 10px}
+.categoryInputField input { width: 5%  ; margin-top:12px;}
+
+.nameHitReleaseDateInputFile { width: 75%; height: auto; margin: 30px auto 0 auto  ; }
+.nameHitReleaseDateInputFile input { width: 31%; height: 30px}
+
+.posterEmbedPathInputField { width: 75%; height: auto; margin: 30px auto 0 auto  ; }
+.posterEmbedPathInputField input { width: 48%; height: 30px ; float: left ; border-radius : 5px}
+
+.subjectInputField { width: 75%; height: auto; margin: 100px auto 0 auto ;}
+.subjectInputField textarea { width: 100%; height: 100px ; float: left ; border-radius : 5px; font: 17px serif }
+
+.submitInputfield { width: 75%; height: auto; margin: 220px auto 0 auto  ;  }
+.submitInputfield #submit { width: 75px; height: 37px; margin-left: 340px; background-color: #D4D0D8}
+.submitInputfield #button { width: 75px; height: 37px; background-color: #D4D0D8}
+
+.submitInputfield #submit:hover { background-color:#B8ACC4 }
+.submitInputfield #button:hover { background-color:#B8ACC4 }
+
+.newEntityAddingField{ width:75%; margin: 50px auto 0 auto;}
+.newEntityAddingField .text { width: 75% ; height: 30px; border-radius : 5px; font: 17px tahoma; margin-top: 10px }
+.newEntityAddingField .submit {width: 18% ; height: 35px; border-radius : 5px; background-color: #D4D0D8 ; display: none;}
+.newEntityAddingField .submit:hover { background-color: #B8ACC4}
+
+
+
+.error { color: red; font: 14px tahoma; }
+
+.resultField { width:100%;  color:red; font: 14px tahoma; text-align: center; }
