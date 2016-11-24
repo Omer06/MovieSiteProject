@@ -19,7 +19,7 @@ Projeyi deploy etmek için(Eclipse) :
 
 # English-İngilizce : 
 
-Standards-compliant , the project is a ordinary movie site
+the project is standards-compliant and a ordinary movie site
 
 * Improved project in java and used some frameworks.
 * The frameworks is : Back-End { Spring (context,mvc,security,aop) , Hibernate } and Front-End{ jsp,css(not used framework),jquery,ajax };
